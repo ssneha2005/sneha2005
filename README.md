@@ -1,1 +1,3 @@
-# sneha2005
+# sneha2005 In this Power BI project about employee turnover, we're looking at a dataset with 1470 entries and 35 different pieces of information. This data gives us important details about the people who work in the company. ![image](https://github.com/ssneha2005/sneha2005/assets/168631000/0e9214ff-a2d1-4035-b246-3c3585e93df8)
+. By studying this data, we can find trends and patterns that show us where there might be problems in the organization. This analysis is like having a map that shows us how to keep more employees happy and make the company stronger.![image](https://github.com/ssneha2005/sneha2005/assets/168631000/5f1844b4-569c-4c3b-b155-91873c141260)
+Title - Employee attrition analysis.![image](https://www.canva.com/design/DAGD5551WpM/mwWpePDH-a1fGSzpXUck_A/view?utm_content=DAGD5551WpM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
